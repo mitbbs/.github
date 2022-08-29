@@ -1,1 +1,1 @@
-https://github.com/mitbbs/.github/discussions
+https://github.com/orgs/mitbbs/discussions
